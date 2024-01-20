@@ -10,7 +10,8 @@ Welcome to sb_notes's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   references
+   conferences
 
 Indices and tables
 ==================
